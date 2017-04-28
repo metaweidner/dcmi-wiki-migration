@@ -1,0 +1,38 @@
+base_url: http://metaweidner.github.io/dcmi-iac/wiki
+image_dir: C:\Users\weidnera\Documents\GitHub\dcmi-iac\wiki\images
+file_dir: C:\Users\weidnera\Documents\GitHub\dcmi-iac\wiki\files
+index: http://wiki.dublincore.org/index.php/Main_Page
+children:
+  - http://wiki.dublincore.org/index.php/Report_of_the_DCMI_Localization_and_Internationalization_Community_Meeting,_25th_September_2008,_held_at_the_Humboldt-Universität_zu_Berlin,_Berlin
+sections:
+  # - name: Glossary
+  #   root: http://wiki.dublincore.org/index.php/Glossary
+  #   children:
+  #     - http://wiki.dublincore.org/index.php/Glossary/Application_Profile
+  #     - http://wiki.dublincore.org/index.php/Glossary/DCAM_Family_of_Specifications
+  #     - http://wiki.dublincore.org/index.php/Glossary/DCAM_Review
+  #     - http://wiki.dublincore.org/index.php/Glossary/DCMI_Abstract_Model
+  #     - http://wiki.dublincore.org/index.php/Glossary/DCMI_Metadata_Terms
+  #     - http://wiki.dublincore.org/index.php/Glossary/Description_Set_Profile
+  #     - http://wiki.dublincore.org/index.php/Glossary/Domains_and_Ranges
+  #     - http://wiki.dublincore.org/index.php/Glossary/Dublin_Core
+  #     - http://wiki.dublincore.org/index.php/Glossary/Dublin_Core_Grammatical_Principles
+  #     - http://wiki.dublincore.org/index.php/Glossary/Dumb-Down_Principle
+  #     - http://wiki.dublincore.org/index.php/Glossary/Encoding_Scheme
+  #     - http://wiki.dublincore.org/index.php/Glossary/Metadata_Enrichment
+  #     - http://wiki.dublincore.org/index.php/Glossary/Metadata_Harmonization
+  #     - http://wiki.dublincore.org/index.php/Glossary/Metadata_Registry
+  #     - http://wiki.dublincore.org/index.php/Glossary/Namespace_Policy
+  #     - http://wiki.dublincore.org/index.php/Glossary/One-to-One_Principle
+  #     - http://wiki.dublincore.org/index.php/Glossary/Open-World_Design
+  #     - http://wiki.dublincore.org/index.php/Glossary/RDF
+  #     - http://wiki.dublincore.org/index.php/Glossary/Record_Paradigm_and_Graph_Paradigm
+  #     - http://wiki.dublincore.org/index.php/Glossary/Resource_Discovery
+  #     - http://wiki.dublincore.org/index.php/Glossary/Schema
+  #     - http://wiki.dublincore.org/index.php/Glossary/Simple_Dublin_Core
+  - name: DC-2011_Vocabulary_Special_Session
+    root: http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session
+    children:
+      # - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/IRC_notes
+      - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/Meeting_Report
+      # - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/Transcribed_flipcharts

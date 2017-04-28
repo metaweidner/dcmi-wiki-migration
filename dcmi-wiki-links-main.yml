@@ -1,0 +1,8 @@
+base_url: http://metaweidner.github.io/dcmi-iac/wiki
+image_dir: C:\Users\weidnera\Documents\GitHub\dcmi-iac\wiki\images
+index: http://wiki.dublincore.org/index.php/Main_Page
+children:
+  - http://wiki.dublincore.org/index.php/RDF_Application_Profiles
+  - http://wiki.dublincore.org/index.php/Special:ListUsers
+  - http://wiki.dublincore.org/index.php/User:WikiSysop
+  - 

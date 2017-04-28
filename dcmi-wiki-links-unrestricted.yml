@@ -1,0 +1,842 @@
+# base_url: http://metaweidner.github.io/dcmi-iac/wiki
+base_url: /archive/wiki
+image_dir: C:\Users\weidnera\Documents\GitHub\dcmi\web_migration\images
+file_dir: C:\Users\weidnera\Documents\GitHub\dcmi\web_migration\files
+index: http://wiki.dublincore.org/index.php/Main_Page
+children:
+  - http://wiki.dublincore.org/index.php/AB-AM-Minutes
+  - http://wiki.dublincore.org/index.php/AB-EOC-Minutes
+  - http://wiki.dublincore.org/index.php/AB-Knowledge-Audit
+  - http://wiki.dublincore.org/index.php/AB-SC-2014-July-10-Minutes
+  - http://wiki.dublincore.org/index.php/AB-SC-2014-June-12-Minutes
+  - http://wiki.dublincore.org/index.php/AB-SC-2014-May-8-Minutes
+  - http://wiki.dublincore.org/index.php/AB-SC-Minutes
+  - http://wiki.dublincore.org/index.php/APvOWL_Lisbon
+  - http://wiki.dublincore.org/index.php/Agenda
+  - http://wiki.dublincore.org/index.php/Agenda2
+  - http://wiki.dublincore.org/index.php/Agenda3
+  - http://wiki.dublincore.org/index.php/Agenda4
+  - http://wiki.dublincore.org/index.php/Agenda_for_the_4/26/12_meeting
+  - http://wiki.dublincore.org/index.php/Agenda_for_the_Community_meeting_in_Lisbon
+  - http://wiki.dublincore.org/index.php/Architecture_Forum_Issue_Tracker
+  - http://wiki.dublincore.org/index.php/BMTG_meeting_26_Apr_2012
+  - http://wiki.dublincore.org/index.php/BMTG_meeting_5_Sep_2013
+  - http://wiki.dublincore.org/index.php/Bibliographic_Metadata_Task_Group
+  - http://wiki.dublincore.org/index.php/CSC
+  - http://wiki.dublincore.org/index.php/Cataloger_Scenarios
+  - http://wiki.dublincore.org/index.php/Core_Elements
+  - http://wiki.dublincore.org/index.php/Cultural_Heritage_Metadata_Task_Group
+  - http://wiki.dublincore.org/index.php/DC2011_NKOS_Workshop
+  - http://wiki.dublincore.org/index.php/DC2011_SAM_Science_and_Metadata_Agenda_and_Meeting_Summary
+  - http://wiki.dublincore.org/index.php/DC2011_Science_and_Metadata_Meeting_Agenda
+  - http://wiki.dublincore.org/index.php/DC2012_NKOS_Workshop
+  - http://wiki.dublincore.org/index.php/DC2013_NKOS_Workshop
+  - http://wiki.dublincore.org/index.php/DCAM_Review
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Design_Patterns
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Design_Patterns_Sources
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Example_Name_Heading
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Gap_Analysis
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Graphics
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_High_Level_Example_Antipatterns
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_High_Level_Example_Core_Elements
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_High_Level_Example_Publication_Statement
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_High_Level_Example_Resource_Descriptions
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_ISBD_DSP
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Scratchpad
+  - http://wiki.dublincore.org/index.php/DCAM_Revision_Tech
+  - http://wiki.dublincore.org/index.php/DCMI_FOAF_Agreement
+  - http://wiki.dublincore.org/index.php/DCMI_Governing_Board
+  - http://wiki.dublincore.org/index.php/DCMI_Localization_and_Internationalization_Community
+  - http://wiki.dublincore.org/index.php/DCMI_Localization_and_Internationalization_Wiki
+  - http://wiki.dublincore.org/index.php/DCMI_NKOS_Task_Group
+  - http://wiki.dublincore.org/index.php/DCMI_Science_And_Metadata
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_2010_Workshop
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_Literature
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_Members
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_RDA_Metadata_Registry
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_Related_Literature
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_Related_RDA_Metadata_Registry
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_~_Definitions_and_requirements_of_the_headings
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_~_Policy_for_maintaining_the_directory
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_~_Research_Data_Alliance_(RDA)_Metadata_Directory
+  - http://wiki.dublincore.org/index.php/DCMI_Science_and_Metadata_~_Research_Data_Alliance_(RDA)_Metadata_Registry
+  - http://wiki.dublincore.org/index.php/DCMI_Translation_Task_Group
+  - http://wiki.dublincore.org/index.php/DCMI_Usage_Board_2014
+  - http://wiki.dublincore.org/index.php/DCMI_Vocabulary_Management_Community
+  - http://wiki.dublincore.org/index.php/DC_2013_SAM_Science_and_Metadata_CAMP_4_DATA_AGENDA
+  - http://wiki.dublincore.org/index.php/DDB-EDM
+  - http://wiki.dublincore.org/index.php/DM2E
+  - http://wiki.dublincore.org/index.php/DPLA_RDF_application_profile_use_cases
+  - http://wiki.dublincore.org/index.php/Deliverable_1
+  - http://wiki.dublincore.org/index.php/Developer_Scenarios
+  - http://wiki.dublincore.org/index.php/Draft_Vocabulary_Management_System_Task_Group_Report
+  - http://wiki.dublincore.org/index.php/Dublin_Core_Prefixes
+  - http://wiki.dublincore.org/index.php/EDM
+  - http://wiki.dublincore.org/index.php/FAQ_Entry
+  - http://wiki.dublincore.org/index.php/Full_announcement
+  - http://wiki.dublincore.org/index.php/Generic_Namespace_Policy
+  - http://wiki.dublincore.org/index.php/Glossary_Entry
+  - http://wiki.dublincore.org/index.php/Guidelines_for_Translating_Dublin_Core_Specifications
+  - http://wiki.dublincore.org/index.php/Implementation_Grant_Discussion_Draft
+  - http://wiki.dublincore.org/index.php/Inventory2
+  - http://wiki.dublincore.org/index.php/Issues2010
+  - http://wiki.dublincore.org/index.php/KIM-recommendations
+  - http://wiki.dublincore.org/index.php/KOS_example
+  - http://wiki.dublincore.org/index.php/LDtraining
+  - http://wiki.dublincore.org/index.php/LibrariesWiki
+  - http://wiki.dublincore.org/index.php/Libraries_Community_Activity_DC2007
+  - http://wiki.dublincore.org/index.php/Libraries_Community_Activity_DC2013
+  - http://wiki.dublincore.org/index.php/Map_of_properties_for_frequency_of_a_resource
+  - http://wiki.dublincore.org/index.php/Map_of_properties_for_intended_audience_of_a_resource
+  - http://wiki.dublincore.org/index.php/Map_of_value_vocabularies_for_frequency_of_issue_of_continuing_resources
+  - http://wiki.dublincore.org/index.php/Maps_between_bibliographic_element_sets
+  - http://wiki.dublincore.org/index.php/Maps_between_bibliographic_value_vocabularies
+  - http://wiki.dublincore.org/index.php/Maps_between_bibliographic_vocabularies
+  - http://wiki.dublincore.org/index.php/Marketing_and_Community_Building
+  - http://wiki.dublincore.org/index.php/Meeting_Notes_for_the_Community_meeting_in_Lisbon
+  - http://wiki.dublincore.org/index.php/Meeting_announcement:_DCMI_Localization_&_Internationalization_Meeting,_DC2010_Pittsburgh,_22_October,_16:00-17:30
+  - http://wiki.dublincore.org/index.php/MoinMoin_to_MediaWiki_Migration
+  - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Issues_List
+  - http://wiki.dublincore.org/index.php/NKOS_AP_Elements
+  - http://wiki.dublincore.org/index.php/NKOS_AP_Worksheet
+  - http://wiki.dublincore.org/index.php/NKOS_Vocabularies
+  - http://wiki.dublincore.org/index.php/OER-world-map
+  - http://wiki.dublincore.org/index.php/Objectives
+  - http://wiki.dublincore.org/index.php/Objectives_V5
+  - http://wiki.dublincore.org/index.php/Pittsburgh_Workshop
+  - http://wiki.dublincore.org/index.php/Planning_Grant_Report_IMLS_Appendix
+  - http://wiki.dublincore.org/index.php/Properties2FRBR
+  - http://wiki.dublincore.org/index.php/Proposal_DCAPs_DanBri
+  - http://wiki.dublincore.org/index.php/Proposal_for_a_full-day_session_in_Lisbon
+  - http://wiki.dublincore.org/index.php/RFC-6906-Profiles
+  - http://wiki.dublincore.org/index.php/RdfAp2014-1-20
+  - http://wiki.dublincore.org/index.php/RdfAp2014-2-19
+  - http://wiki.dublincore.org/index.php/Report_of_the_DCMI_Localization_And_Internationalization_Community_Meeting,_22_October_2010,_held_at_Pittsburgh,_DC2010
+  - http://wiki.dublincore.org/index.php/Report_of_the_DCMI_Localization_and_Internationalization_Community_Meeting,_13_October_2009,_held_at_the_National_Library_of_Korea
+  - http://wiki.dublincore.org/index.php/Report_of_the_DCMI_Localization_and_Internationalization_Community_Meeting,_22_September_2011,_held_at_The_Hague,_Netherlands
+  # - http://wiki.dublincore.org/index.php/Report_of_the_DCMI_Localization_and_Internationalization_Community_Meeting,_25th_September_2008,_held_at_the_Humboldt-Universität_zu_Berlin,_Berlin
+  - http://wiki.dublincore.org/index.php/Resource_Collection
+  - http://wiki.dublincore.org/index.php/Review_of_DCMI_Abstract_Model
+  - http://wiki.dublincore.org/index.php/Schema.org
+  - http://wiki.dublincore.org/index.php/Straw_man
+  - http://wiki.dublincore.org/index.php/Survey-20150701
+  - http://wiki.dublincore.org/index.php/TB_minutes-102014
+  - http://wiki.dublincore.org/index.php/Talk:NKOS_AP_Worksheet
+  - http://wiki.dublincore.org/index.php/TaskGroup_Meeting_DC2013
+  - http://wiki.dublincore.org/index.php/TeleconReport-20120321
+  - http://wiki.dublincore.org/index.php/TinyArchive
+  - http://wiki.dublincore.org/index.php/Use_Cases
+  - http://wiki.dublincore.org/index.php/User_Scenarios
+  - http://wiki.dublincore.org/index.php/User_Tasks
+  - http://wiki.dublincore.org/index.php/User_needs
+  - http://wiki.dublincore.org/index.php/VocDay_workshop_in_Lisbon
+  - http://wiki.dublincore.org/index.php/Vocabulary_Management_Options
+  - http://wiki.dublincore.org/index.php/Vocabulary_Management_System_External_Resources
+  - http://wiki.dublincore.org/index.php/Vocabulary_Management_System_Functional_Requirements
+  - http://wiki.dublincore.org/index.php/Vocabulary_Management_System_Functional_Requirements_notes_from_DC-2011
+  - http://wiki.dublincore.org/index.php/Vocabulary_Management_System_General_Requirements
+  - http://wiki.dublincore.org/index.php/Vocabulary_Management_System_Task_Group
+  - http://wiki.dublincore.org/index.php/Vocabulary_Preservation_discussion_paper
+  - http://wiki.dublincore.org/index.php/Vocabulary_evaluation,_selection_and_re-use
+  - http://wiki.dublincore.org/index.php/Where_We_Started
+sections:
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/1.1RDFcomments
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/courses
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp1
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp2
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp3
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp4
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp5
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp6
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp7
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp8
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp9
+  # - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/chairs
+  - name: AB-Comm
+    sections:
+      - name: ed
+        sections:
+          - name: LRMI
+            children:
+              - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/chairs 
+            sections:
+              - name: TG
+                root: http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG
+                children:
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/1.1RDFcomments 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/courses 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp1 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp2 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp3 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp4 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp5 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp6 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp7 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp8 
+                  - http://wiki.dublincore.org/index.php/AB-Comm/ed/LRMI/TG/wp9 
+  # - http://wiki.dublincore.org/index.php/ADMS/OMR_Project
+  - name: ADMS
+    children:
+      - http://wiki.dublincore.org/index.php/ADMS/OMR_Project
+  # - http://wiki.dublincore.org/index.php/Conference_Guidelines
+  # - http://wiki.dublincore.org/index.php/Conference_Guidelines/Conference_Committee
+  # - http://wiki.dublincore.org/index.php/Conference_Guidelines/Exploratory_Team_Guidelines
+  # - http://wiki.dublincore.org/index.php/Conference_Guidelines/Host_Guidelines
+  # - http://wiki.dublincore.org/index.php/Conference_Guidelines/Master_Calendar
+  # - http://wiki.dublincore.org/index.php/Conference_Guidelines/Steering_Committee
+  - name: Conference_Guidelines
+    root: http://wiki.dublincore.org/index.php/Conference_Guidelines
+    children:
+      - http://wiki.dublincore.org/index.php/Conference_Guidelines/Conference_Committee
+      - http://wiki.dublincore.org/index.php/Conference_Guidelines/Exploratory_Team_Guidelines
+      - http://wiki.dublincore.org/index.php/Conference_Guidelines/Host_Guidelines
+      - http://wiki.dublincore.org/index.php/Conference_Guidelines/Master_Calendar
+      - http://wiki.dublincore.org/index.php/Conference_Guidelines/Steering_Committee
+  # - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session
+  # - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/IRC_notes
+  # - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/Meeting_Report
+  # - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/Transcribed_flipcharts
+  - name: DC-2011_Vocabulary_Special_Session
+    root: http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session
+    children:
+      - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/IRC_notes
+      - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/Meeting_Report
+      - http://wiki.dublincore.org/index.php/DC-2011_Vocabulary_Special_Session/Transcribed_flipcharts
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20111221
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120104
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120130
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120215
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120229
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120322
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120409
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120515
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-201206xx
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120716
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconIRC-20111221
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20111221
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120104
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120130
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120215
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120229
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120322
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120409
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120515
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-201206xx
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120716
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120809
+  # - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120814
+  - name: DCAM_Revision
+    root: http://wiki.dublincore.org/index.php/DCAM_Revision
+    children:
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20111221
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120104
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120130
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120215
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120229
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120322
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120409
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120515
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-201206xx
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconAgenda-20120716
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconIRC-20111221
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20111221
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120104
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120130
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120215
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120229
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120322
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120409
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120515
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-201206xx
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120716
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120809
+      - http://wiki.dublincore.org/index.php/DCAM_Revision/TeleconReport-20120814      
+  # - http://wiki.dublincore.org/index.php/DCLib_AP
+  # - http://wiki.dublincore.org/index.php/DCLib_AP/Bibliographic_Resource_Properties
+  # - http://wiki.dublincore.org/index.php/DCLib_AP/DCLib_Classes
+  # - http://wiki.dublincore.org/index.php/DCLib_AP/Encoding_Schemes
+  # - http://wiki.dublincore.org/index.php/DCLib_AP/Item_Properties
+  - name: DCLib_AP
+    root: http://wiki.dublincore.org/index.php/DCLib_AP
+    children: 
+      - http://wiki.dublincore.org/index.php/DCLib_AP/Bibliographic_Resource_Properties
+      - http://wiki.dublincore.org/index.php/DCLib_AP/DCLib_Classes
+      - http://wiki.dublincore.org/index.php/DCLib_AP/Encoding_Schemes
+      - http://wiki.dublincore.org/index.php/DCLib_AP/Item_Properties
+  # - http://wiki.dublincore.org/index.php/DCMI/RDA_Task_Group_Historical_Archives
+  # - http://wiki.dublincore.org/index.php/DCMI/RDA_Task_Group_Repurposing_Proposal
+  - name: DCMI
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI/RDA_Task_Group_Historical_Archives
+      - http://wiki.dublincore.org/index.php/DCMI/RDA_Task_Group_Repurposing_Proposal
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/20140508
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/20140710
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/communityTGchairs
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/documentation
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/AspectsToWork
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/calendar
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/documents
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/minutes
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/minutes/20140409
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/minutes/objectivesV5
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/meetings
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/planning
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/procedures/meetings
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/scratchpad/education
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/scratchpad/general
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/specifications
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/specifications/scratchpad/general
+  # - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/webinarsPolicies
+  - name: DCMI_Advisory_Board
+    root: http://wiki.dublincore.org/index.php/DCMI_Advisory_Board
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/20140508 
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/20140710 
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/communityTGchairs 
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/documentation 
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/meetings 
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/planning 
+      - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/webinarsPolicies 
+    sections:
+      - name: education
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/AspectsToWork 
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/calendar 
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/documents 
+      - name: procedures
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/procedures/meetings 
+      - name: scratchpad
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/scratchpad/education 
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/scratchpad/general 
+      - name: specifications
+        root: http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/specifications
+        sections:
+          - name: scratchpad
+            children:
+              - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/specifications/scratchpad/general 
+      - name: minutes
+        root: http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/minutes
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/minutes/20140409 
+          - http://wiki.dublincore.org/index.php/DCMI_Advisory_Board/education/minutes/objectivesV5 
+  # - http://wiki.dublincore.org/index.php/DCMI_Conferences/Amplified_Conference
+  - name: DCMI_Conferences
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI_Conferences/Amplified_Conference
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Ideas
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Specific_Agreements
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201209
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201308
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201406
+  # - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201508
+  - name: DCMI_FOAF_Cooperation
+    root: http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Ideas
+      - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Specific_Agreements
+      - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201209
+      - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201308
+      - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201406
+      - http://wiki.dublincore.org/index.php/DCMI_FOAF_Cooperation/Update_201508
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/ASIST_Webinars
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/ASIST_Webinars/CallForWebinars
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/ASIST_Webinars/calendar
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Administrative_Calendar
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines/Exploratory_Team_Guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines/Personnel_Support
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines/Steering_Committee
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Finance_and_Budgeting
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf/Annual_Meeting
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf/Host_Guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf/Master_Calendar
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Liaison_Guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/MediaWiki_Simple_Help
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/NISO_Webinars
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Reg_Conf
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Reg_Conf/Host_Guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/Usage_Board
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/bylaws
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/orgStructure
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/procedures
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/procedures/webex
+  # - http://wiki.dublincore.org/index.php/DCMI_Handbook/webinars
+  - name: DCMI_Handbook
+    root: http://wiki.dublincore.org/index.php/DCMI_Handbook
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/Administrative_Calendar
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/Finance_and_Budgeting
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/Liaison_Guidelines
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/MediaWiki_Simple_Help
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/NISO_Webinars
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/Usage_Board
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/bylaws
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/orgStructure
+      - http://wiki.dublincore.org/index.php/DCMI_Handbook/webinars
+    sections:
+      - name: Conference_Guidelines
+        root: http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines/Exploratory_Team_Guidelines
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines/Personnel_Support
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Conference_Guidelines/Steering_Committee
+      - name: ASIST_Webinars
+        root: http://wiki.dublincore.org/index.php/DCMI_Handbook/ASIST_Webinars
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/ASIST_Webinars/CallForWebinars
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/ASIST_Webinars/calendar
+      - name: Int_Conf
+        root: http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf/Annual_Meeting
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf/Host_Guidelines
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Int_Conf/Master_Calendar
+      - name: procedures
+        root: http://wiki.dublincore.org/index.php/DCMI_Handbook/procedures
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/procedures/webex
+      - name: Reg_Conf
+        root: http://wiki.dublincore.org/index.php/DCMI_Handbook/Reg_Conf
+        children:
+          - http://wiki.dublincore.org/index.php/DCMI_Handbook/Reg_Conf/Host_Guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/DCMI_Infrastructure_Inventory
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/infrastructure
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/procedures
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/TGchairs
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/community_namespaces
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/dcr_guidelines
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/nkos
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/rdfAP
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/standards
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/standards/ISO_Part2
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/standards/ISO_Part2/schedule
+  # - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/usage
+  - name: DCMI_Technical_Board
+    root: http://wiki.dublincore.org/index.php/DCMI_Technical_Board
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/DCMI_Infrastructure_Inventory 
+      - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/infrastructure 
+      - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/issues 
+      - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/procedures 
+      - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/usage 
+    sections:
+    - name: specifications
+      root: http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications
+      children:
+        - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/TGchairs 
+        - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/community_namespaces 
+        - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/dcr_guidelines 
+        - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/nkos 
+        - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/rdfAP 
+      sections:
+        - name: scratchpad
+          children:
+            - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/scratchpad/general 
+            - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/scratchpad/nkos 
+            - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/specifications/scratchpad/rdfAP 
+    - name: standards
+      root: http://wiki.dublincore.org/index.php/DCMI_Technical_Board/standards
+      sections:
+        - name: ISO_Part2
+          root: http://wiki.dublincore.org/index.php/DCMI_Technical_Board/standards/ISO_Part2
+          children:
+            - http://wiki.dublincore.org/index.php/DCMI_Technical_Board/standards/ISO_Part2/schedule 
+  # - http://wiki.dublincore.org/index.php/DCMI_Usage_Board
+  # - http://wiki.dublincore.org/index.php/DCMI_Usage_Board/Issues2010
+  # - http://wiki.dublincore.org/index.php/DCMI_Usage_Board/Issues2011
+  # - http://wiki.dublincore.org/index.php/DCMI_Usage_Board/manual
+  - name: DCMI_Usage_Board
+    root: http://wiki.dublincore.org/index.php/DCMI_Usage_Board
+    children:
+      - http://wiki.dublincore.org/index.php/DCMI_Usage_Board/Issues2010 
+      - http://wiki.dublincore.org/index.php/DCMI_Usage_Board/Issues2011 
+      - http://wiki.dublincore.org/index.php/DCMI_Usage_Board/manual
+  # - http://wiki.dublincore.org/index.php/Exec_Committee
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Comments
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Conferences
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Education
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Nominations
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Planning
+  # - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Standards
+  - name: Exec_Committee
+    root: http://wiki.dublincore.org/index.php/Exec_Committee
+    children:
+      - http://wiki.dublincore.org/index.php/Exec_Committee/Oversight_Committee 
+      - http://wiki.dublincore.org/index.php/Exec_Committee/QA_struct 
+      - http://wiki.dublincore.org/index.php/Exec_Committee/UB 
+      - http://wiki.dublincore.org/index.php/Exec_Committee/UB_Restructure 
+      - http://wiki.dublincore.org/index.php/Exec_Committee/org_chart 
+      - http://wiki.dublincore.org/index.php/Exec_Committee/procedures 
+      - http://wiki.dublincore.org/index.php/Exec_Committee/public
+      - http://wiki.dublincore.org/index.php/Exec_Committee/restructureProcess 
+    sections:
+      - name: AB_Comm-TG
+        root: http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG
+        children:
+          - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Comments 
+          - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Conferences 
+          - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Education 
+          - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Nominations 
+          - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Planning 
+          - http://wiki.dublincore.org/index.php/Exec_Committee/AB_Comm-TG/Standards 
+      - name: OC_Comm-TG
+        root: http://wiki.dublincore.org/index.php/Exec_Committee/OC_Comm-TG
+        children:
+          - http://wiki.dublincore.org/index.php/Exec_Committee/OC_Comm-TG/Comments 
+      - name: directorate
+        root: http://wiki.dublincore.org/index.php/Exec_Committee/directorate
+        children:
+          - http://wiki.dublincore.org/index.php/Exec_Committee/directorate/CEODuties 
+          - http://wiki.dublincore.org/index.php/Exec_Committee/directorate/MDDuties 
+  # - http://wiki.dublincore.org/index.php/FAQ
+  # - http://wiki.dublincore.org/index.php/FAQ/Agent_roles
+  # - http://wiki.dublincore.org/index.php/FAQ/Application_Profile
+  # - http://wiki.dublincore.org/index.php/FAQ/Beyond_library_catalogs
+  # - http://wiki.dublincore.org/index.php/FAQ/DCMI_Abstract_Model
+  # - http://wiki.dublincore.org/index.php/FAQ/DC_and_DCTERMS_Namespaces
+  # - http://wiki.dublincore.org/index.php/FAQ/Dubious_triples
+  # - http://wiki.dublincore.org/index.php/FAQ/HTML5_Scheme
+  # - http://wiki.dublincore.org/index.php/FAQ/Linked_Data_ROI_for_catalogers
+  # - http://wiki.dublincore.org/index.php/FAQ/Linking_data_on_dates
+  # - http://wiki.dublincore.org/index.php/FAQ/Metadata_persistence_and_reliability
+  # - http://wiki.dublincore.org/index.php/FAQ/XML_Elements_and_RDF_Elements
+  - name: FAQ
+    root: http://wiki.dublincore.org/index.php/FAQ
+    children:
+      - http://wiki.dublincore.org/index.php/FAQ/Agent_roles
+      - http://wiki.dublincore.org/index.php/FAQ/Application_Profile
+      - http://wiki.dublincore.org/index.php/FAQ/Beyond_library_catalogs
+      - http://wiki.dublincore.org/index.php/FAQ/DC_and_DCTERMS_Namespaces
+      - http://wiki.dublincore.org/index.php/FAQ/Dubious_triples
+      - http://wiki.dublincore.org/index.php/FAQ/HTML5_Scheme
+      - http://wiki.dublincore.org/index.php/FAQ/Linked_Data_ROI_for_catalogers
+      - http://wiki.dublincore.org/index.php/FAQ/Linking_data_on_dates
+      - http://wiki.dublincore.org/index.php/FAQ/Metadata_persistence_and_reliability
+      - http://wiki.dublincore.org/index.php/FAQ/XML_Elements_and_RDF_Elements
+  # - http://wiki.dublincore.org/index.php/Glossary
+  # - http://wiki.dublincore.org/index.php/Glossary/Application_Profile
+  # - http://wiki.dublincore.org/index.php/Glossary/DCAM_Family_of_Specifications
+  # - http://wiki.dublincore.org/index.php/Glossary/DCAM_Review
+  # - http://wiki.dublincore.org/index.php/Glossary/DCMI_Abstract_Model
+  # - http://wiki.dublincore.org/index.php/Glossary/DCMI_Metadata_Terms
+  # - http://wiki.dublincore.org/index.php/Glossary/Description_Set_Profile
+  # - http://wiki.dublincore.org/index.php/Glossary/Domains_and_Ranges
+  # - http://wiki.dublincore.org/index.php/Glossary/Dublin_Core
+  # - http://wiki.dublincore.org/index.php/Glossary/Dublin_Core_Grammatical_Principles
+  # - http://wiki.dublincore.org/index.php/Glossary/Dumb-Down_Principle
+  # - http://wiki.dublincore.org/index.php/Glossary/Encoding_Scheme
+  # - http://wiki.dublincore.org/index.php/Glossary/Metadata_Enrichment
+  # - http://wiki.dublincore.org/index.php/Glossary/Metadata_Harmonization
+  # - http://wiki.dublincore.org/index.php/Glossary/Metadata_Registry
+  # - http://wiki.dublincore.org/index.php/Glossary/Namespace_Policy
+  # - http://wiki.dublincore.org/index.php/Glossary/One-to-One_Principle
+  # - http://wiki.dublincore.org/index.php/Glossary/Open-World_Design
+  # - http://wiki.dublincore.org/index.php/Glossary/RDF
+  # - http://wiki.dublincore.org/index.php/Glossary/Record_Paradigm_and_Graph_Paradigm
+  # - http://wiki.dublincore.org/index.php/Glossary/Resource_Discovery
+  # - http://wiki.dublincore.org/index.php/Glossary/Schema
+  # - http://wiki.dublincore.org/index.php/Glossary/Simple_Dublin_Core
+  - name: Glossary
+    root: http://wiki.dublincore.org/index.php/Glossary
+    children:
+      - http://wiki.dublincore.org/index.php/Glossary/Application_Profile
+      - http://wiki.dublincore.org/index.php/Glossary/DCAM_Family_of_Specifications
+      - http://wiki.dublincore.org/index.php/Glossary/DCAM_Review
+      - http://wiki.dublincore.org/index.php/Glossary/DCMI_Abstract_Model
+      - http://wiki.dublincore.org/index.php/Glossary/DCMI_Metadata_Terms
+      - http://wiki.dublincore.org/index.php/Glossary/Description_Set_Profile
+      - http://wiki.dublincore.org/index.php/Glossary/Domains_and_Ranges
+      - http://wiki.dublincore.org/index.php/Glossary/Dublin_Core
+      - http://wiki.dublincore.org/index.php/Glossary/Dublin_Core_Grammatical_Principles
+      - http://wiki.dublincore.org/index.php/Glossary/Dumb-Down_Principle
+      - http://wiki.dublincore.org/index.php/Glossary/Encoding_Scheme
+      - http://wiki.dublincore.org/index.php/Glossary/Metadata_Enrichment
+      - http://wiki.dublincore.org/index.php/Glossary/Metadata_Harmonization
+      - http://wiki.dublincore.org/index.php/Glossary/Metadata_Registry
+      - http://wiki.dublincore.org/index.php/Glossary/Namespace_Policy
+      - http://wiki.dublincore.org/index.php/Glossary/One-to-One_Principle
+      - http://wiki.dublincore.org/index.php/Glossary/Open-World_Design
+      - http://wiki.dublincore.org/index.php/Glossary/RDF
+      - http://wiki.dublincore.org/index.php/Glossary/Record_Paradigm_and_Graph_Paradigm
+      - http://wiki.dublincore.org/index.php/Glossary/Resource_Discovery
+      - http://wiki.dublincore.org/index.php/Glossary/Schema
+      - http://wiki.dublincore.org/index.php/Glossary/Simple_Dublin_Core
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2014-10-21
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2014-11-02
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2014-12-17
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-01-21
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-02-18
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-03-17
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-04-15
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-05-12
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-06-16
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-07-21
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-08-18
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-09-15
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-10-20
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-11-17
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-12-15
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-01-19
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-02-16
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-03-15
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-04-19
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-05-17
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-06-21
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-07-19
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-08-16
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-09-20
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-10-18
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-11-22
+  # - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2017-07-19
+  - name: LD4PE_Meeting_Minutes
+    children:
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2014-10-21
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2014-11-02
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2014-12-17
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-01-21
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-02-18
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-03-17
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-04-15
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-05-12
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-06-16
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-07-21
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-08-18
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-09-15
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-10-20
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-11-17
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2015-12-15
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-01-19
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-02-16
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-03-15
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-04-19
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-05-17
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-06-21
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-07-19
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-08-16
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-09-20
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-10-18
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2016-11-22
+      - http://wiki.dublincore.org/index.php/LD4PE_Meeting_Minutes/2017-07-19
+  # - http://wiki.dublincore.org/index.php/Main_Page/webinars
+  - name: Main_Page
+    children:
+      - http://wiki.dublincore.org/index.php/Main_Page/webinars
+  # - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards
+  # - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards/Multilingual_Vocabulary_Issues_List
+  # - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards/TeleconReport-20120215
+  # - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards/TeleconReport-20120321
+  - name: Multilingual_Vocabulary_Standards
+    root: http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards
+    children:
+      - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards/Multilingual_Vocabulary_Issues_List
+      - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards/TeleconReport-20120215
+      - http://wiki.dublincore.org/index.php/Multilingual_Vocabulary_Standards/TeleconReport-20120321
+  # - http://wiki.dublincore.org/index.php/Nkos/apDomainModel
+  # - http://wiki.dublincore.org/index.php/Nkos/apNameSpace
+  # - http://wiki.dublincore.org/index.php/Nkos/apNarrative
+  # - http://wiki.dublincore.org/index.php/Nkos/apSKOS
+  # - http://wiki.dublincore.org/index.php/Nkos/apSchema
+  # - http://wiki.dublincore.org/index.php/Nkos/apTermTables
+  - name: Nkos
+    children:
+      - http://wiki.dublincore.org/index.php/Nkos/apDomainModel
+      - http://wiki.dublincore.org/index.php/Nkos/apNameSpace
+      - http://wiki.dublincore.org/index.php/Nkos/apNarrative
+      - http://wiki.dublincore.org/index.php/Nkos/apSKOS
+      - http://wiki.dublincore.org/index.php/Nkos/apSchema
+      - http://wiki.dublincore.org/index.php/Nkos/apTermTables
+  # - http://wiki.dublincore.org/index.php/PT_Traduções
+  # - http://wiki.dublincore.org/index.php/PT_Traduções/Níveis_de_Interoperabilidade
+  # - name: PT_Traduções
+  #   root: http://wiki.dublincore.org/index.php/PT_Traduções
+  #   children:
+  #     - http://wiki.dublincore.org/index.php/PT_Traduções/Níveis_de_Interoperabilidade
+  - http://wiki.dublincore.org/index.php/Pet/ld4pe
+  - http://wiki.dublincore.org/index.php/Pet/webinars
+  - name: Pet
+    children:
+      - http://wiki.dublincore.org/index.php/Pet/ld4pe
+      - http://wiki.dublincore.org/index.php/Pet/webinars
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Agenda20140319
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/ExamplesFormalConstraints
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140120
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140219
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140319
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140610
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140819
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140902
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140916
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140930
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141014
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141028
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141111
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141125
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150120
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150203
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150226
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150312
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150409
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150423
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150507
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150521
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150604
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150620
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150702
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150716
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150730
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150813
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150827
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20151203
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20160128
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20160211
+  # - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20160225
+  - name: RDF-Application-Profiles
+    root: http://wiki.dublincore.org/index.php/RDF-Application-Profiles
+    children:
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Agenda20140319
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/ExamplesFormalConstraints
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140120
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140219
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140319
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/Minutes20140610
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140819
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140902
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140916
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20140930
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141014
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141028
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141111
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20141125
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150120
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150203
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150226
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150312
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150409
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150423
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150507
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150521
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150604
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150620
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150702
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150716
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150730
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150813
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20150827
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20151203
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20160128
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20160211
+      - http://wiki.dublincore.org/index.php/RDF-Application-Profiles/minutes20160225
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/2016Plan
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Agenda20140319
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Agenda20140416
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/BibframeAnalysis
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Charter
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/DSPanalysis
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140120
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140219
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140319
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140416
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140527
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/RDF_Validator
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Requirements
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/SWIB2015_breakout
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/UCR_Deliverable
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/ValidationExamples
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/blendingDoc
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/dc2014
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/dc2014specialsession
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140624
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140708
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140722
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140805
+  # - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/swib2014
+  - name: RDF_Application_Profiles
+    root: http://wiki.dublincore.org/index.php/RDF_Application_Profiles
+    children: 
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/2016Plan
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Agenda20140319
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Agenda20140416
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/BibframeAnalysis
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Charter
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/DSPanalysis
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140120
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140219
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140319
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140416
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Minutes20140527
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/RDF_Validator
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/Requirements
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/SWIB2015_breakout
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/UCR_Deliverable
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/ValidationExamples
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/blendingDoc
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/dc2014
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/dc2014specialsession
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140624
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140708
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140722
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/minutes20140805
+      - http://wiki.dublincore.org/index.php/RDF_Application_Profiles/swib2014
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/GithubIssueTracker
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/MappingIssues
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Mappings
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Mappings_Details
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20111212
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20111212_Report
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120109_Agenda
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120405
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120405_Report
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120514
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120514_Report
+  # - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_201206xx
+  - name: Schema.org_Alignment
+    root: http://wiki.dublincore.org/index.php/Schema.org_Alignment
+    children:
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/GithubIssueTracker
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/MappingIssues
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Mappings
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Mappings_Details
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20111212
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20111212_Report
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120109_Agenda
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120405
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120405_Report
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120514
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_20120514_Report
+      - http://wiki.dublincore.org/index.php/Schema.org_Alignment/Telecon_201206xx
+  # - http://wiki.dublincore.org/index.php/User_Documentation
+  # - http://wiki.dublincore.org/index.php/User_Documentation/Meeting_20101021
+  # - http://wiki.dublincore.org/index.php/User_Documentation/Progress_Report_20110316
+  # - http://wiki.dublincore.org/index.php/User_Documentation/Workplan
+  # - http://wiki.dublincore.org/index.php/User_Documentation/Workplan_20101204
+  # - http://wiki.dublincore.org/index.php/User_Documentation/Workplan_20111204
+  - name: User_Documentation
+    root: http://wiki.dublincore.org/index.php/User_Documentation
+    children:
+      - http://wiki.dublincore.org/index.php/User_Documentation/Meeting_20101021
+      - http://wiki.dublincore.org/index.php/User_Documentation/Progress_Report_20110316
+      - http://wiki.dublincore.org/index.php/User_Documentation/Workplan
+      - http://wiki.dublincore.org/index.php/User_Documentation/Workplan_20101204
+      - http://wiki.dublincore.org/index.php/User_Documentation/Workplan_20111204      
+  # - http://wiki.dublincore.org/index.php/User_Guide
+  # - http://wiki.dublincore.org/index.php/User_Guide/Creating_Metadata
+  # - http://wiki.dublincore.org/index.php/User_Guide/Publishing_Metadata
+  - name: User_Guide
+    root: http://wiki.dublincore.org/index.php/User_Guide
+    children:
+      - http://wiki.dublincore.org/index.php/User_Guide/Creating_Metadata
+      - http://wiki.dublincore.org/index.php/User_Guide/Publishing_Metadata
